@@ -1,0 +1,251 @@
+tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres,averageRating,numVotes
+tt0111161,movie,The Shawshank Redemption,The Shawshank Redemption,0,1994.0,,142,Drama,9.3,3116179
+tt0068646,movie,The Godfather,The Godfather,0,1972.0,,175,"Crime,Drama",9.2,2172885
+tt0252487,movie,The Chaos Class,Hababam Sinifi,0,1975.0,,85,Comedy,9.2,45272
+tt0468569,movie,The Dark Knight,The Dark Knight,0,2008.0,,152,"Action,Crime,Drama",9.1,3092193
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,0,2003.0,,201,"Adventure,Drama,Fantasy",9.0,2116844
+tt0108052,movie,Schindler's List,Schindler's List,0,1993.0,,195,"Biography,Drama,History",9.0,1553410
+tt0071562,movie,The Godfather Part II,The Godfather Part II,0,1974.0,,202,"Crime,Drama",9.0,1459804
+tt0050083,movie,12 Angry Men,12 Angry Men,0,1957.0,,96,"Crime,Drama",9.0,954380
+tt0120737,movie,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,0,2001.0,,178,"Adventure,Drama,Fantasy",8.9,2152143
+tt5354160,movie,Mirror Game,Aynabaji,0,2016.0,,147,"Crime,Mystery,Thriller",8.9,30825
+tt0253828,movie,Tosun Pasha,Tosun Pasa,0,1976.0,,90,"Comedy,History",8.9,25932
+tt1375666,movie,Inception,Inception,0,2010.0,,148,"Action,Adventure,Sci-Fi",8.8,2746946
+tt0137523,movie,Fight Club,Fight Club,0,1999.0,,139,"Crime,Drama,Thriller",8.8,2531052
+tt0109830,movie,Forrest Gump,Forrest Gump,0,1994.0,,142,"Drama,Romance",8.8,2433768
+tt0110912,movie,Pulp Fiction,Pulp Fiction,0,1994.0,,154,"Crime,Drama",8.8,2380851
+tt0167261,movie,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,0,2002.0,,179,"Adventure,Drama,Fantasy",8.8,1910143
+tt0060196,movie,"The Good, the Bad and the Ugly","Il buono, il brutto, il cattivo",0,1966.0,,178,"Adventure,Drama,Western",8.8,872095
+tt0816692,movie,Interstellar,Interstellar,0,2014.0,,169,"Adventure,Drama,Sci-Fi",8.7,2425800
+tt0133093,movie,The Matrix,The Matrix,0,1999.0,,136,"Action,Sci-Fi",8.7,2198296
+tt0080684,movie,Star Wars: Episode V - The Empire Strikes Back,Star Wars: Episode V - The Empire Strikes Back,0,1980.0,,124,"Action,Adventure,Fantasy",8.7,1471999
+tt0099685,movie,Goodfellas,GoodFellas,0,1990.0,,145,"Biography,Crime,Drama",8.7,1356755
+tt23849204,movie,12th Fail,12th Fail,0,2023.0,,147,"Biography,Drama",8.7,159040
+tt7466810,movie,777 Charlie,777 Charlie,0,2022.0,,164,"Adventure,Comedy,Drama",8.7,45759
+tt0114369,movie,Se7en,Se7en,0,1995.0,,127,"Crime,Drama,Mystery",8.6,1964444
+tt0102926,movie,The Silence of the Lambs,The Silence of the Lambs,0,1991.0,,118,"Crime,Drama,Horror",8.6,1674785
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,0,1998.0,,169,"Drama,War",8.6,1600914
+tt0076759,movie,Star Wars: Episode IV - A New Hope,Star Wars,0,1977.0,,121,"Action,Adventure,Fantasy",8.6,1538324
+tt0120689,movie,The Green Mile,The Green Mile,0,1999.0,,189,"Crime,Drama,Fantasy",8.6,1520353
+tt0103064,movie,Terminator 2: Judgment Day,Terminator 2: Judgment Day,0,1991.0,,137,"Action,Adventure,Sci-Fi",8.6,1256635
+tt0073486,movie,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,0,1975.0,,133,Drama,8.6,1135984
+tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001.0,,124,"Adventure,Animation,Family",8.6,937395
+tt0317248,movie,City of God,Cidade de Deus,0,2002.0,,130,"Crime,Drama",8.6,852914
+tt0118799,movie,Life Is Beautiful,La vita è bella,0,1997.0,,116,"Comedy,Drama,Romance",8.6,794004
+tt0038650,movie,It's a Wonderful Life,It's a Wonderful Life,0,1946.0,,130,"Drama,Family,Fantasy",8.6,536662
+tt0047478,movie,Seven Samurai,Shichinin no samurai,0,1954.0,,207,"Action,Drama",8.6,392199
+tt15097216,movie,Jai Bhim,Jai Bhim,0,2021.0,,164,"Crime,Drama",8.6,230747
+tt10189514,movie,Soorarai Pottru,Soorarai Pottru,0,2020.0,,153,Drama,8.6,130212
+tt0056058,movie,Harakiri,Seppuku,0,1962.0,,133,"Drama,Mystery",8.6,84110
+tt9263550,movie,Rocketry: The Nambi Effect,Rocketry: The Nambi Effect,0,2022.0,,157,"Biography,Drama",8.6,61300
+tt34365591,movie,Mahavatar Narsimha,Mahavatar Narsimha,0,2024.0,,130,"Action,Animation,Drama",8.6,42019
+tt0252488,movie,The Chaos Class Failed the Class,Hababam Sinifi: Sinifta Kaldi,0,1975.0,,95,Comedy,8.6,28687
+tt0367495,movie,Anbe Sivam,Anbe Sivam,0,2003.0,,160,"Adventure,Comedy,Drama",8.6,27694
+tt0093603,movie,Nayakan,Nayakan,0,1987.0,,145,"Crime,Drama",8.6,27218
+tt1853728,movie,Django Unchained,Django Unchained,0,2012.0,,165,"Drama,Western",8.5,1834153
+tt0172495,movie,Gladiator,Gladiator,0,2000.0,,155,"Action,Adventure,Drama",8.5,1803321
+tt0482571,movie,The Prestige,The Prestige,0,2006.0,,130,"Drama,Mystery,Sci-Fi",8.5,1549131
+tt0407887,movie,The Departed,The Departed,0,2006.0,,151,"Crime,Drama,Thriller",8.5,1520097
+tt0088763,movie,Back to the Future,Back to the Future,0,1985.0,,116,"Adventure,Comedy,Sci-Fi",8.5,1411599
+tt0110413,movie,Léon: The Professional,Léon,0,1994.0,,110,"Action,Crime,Drama",8.5,1325712
+tt0120586,movie,American History X,American History X,0,1998.0,,119,"Crime,Drama",8.5,1250441
+tt0110357,movie,The Lion King,The Lion King,0,1994.0,,88,"Adventure,Animation,Drama",8.5,1229071
+tt0114814,movie,The Usual Suspects,The Usual Suspects,0,1995.0,,106,"Crime,Drama,Mystery",8.5,1212974
+tt6751668,movie,Parasite,Gisaengchung,0,2019.0,,132,"Drama,Thriller",8.5,1111929
+tt2582802,movie,Whiplash,Whiplash,0,2014.0,,106,"Drama,Music",8.5,1109481
+tt0078748,movie,Alien,Alien,0,1979.0,,117,"Horror,Sci-Fi",8.5,1040202
+tt1675434,movie,The Intouchables,Intouchables,0,2011.0,,112,"Comedy,Drama",8.5,999901
+tt0253474,movie,The Pianist,The Pianist,0,2002.0,,150,"Biography,Drama,Music",8.5,988772
+tt0054215,movie,Psycho,Psycho,0,1960.0,,109,"Drama,Horror,Mystery",8.5,769382
+tt0034583,movie,Casablanca,Casablanca,0,1942.0,,102,"Drama,Romance,War",8.5,642592
+tt10811166,movie,The Kashmir Files,The Kashmir Files,0,2022.0,,170,Drama,8.5,577648
+tt0047396,movie,Rear Window,Rear Window,0,1954.0,,112,"Drama,Mystery,Thriller",8.5,557063
+tt9362722,movie,Spider-Man: Across the Spider-Verse,Spider-Man: Across the Spider-Verse,0,2023.0,,140,"Action,Adventure,Animation",8.5,487733
+tt0064116,movie,Once Upon a Time in the West,C'era una volta il West,0,1968.0,,166,"Drama,Western",8.5,375609
+tt0095327,movie,Grave of the Fireflies,Hotaru no haka,0,1988.0,,88,"Animation,Drama,War",8.5,366265
+tt0095765,movie,Cinema Paradiso,Nuovo Cinema Paradiso,0,1988.0,,174,"Drama,Romance",8.5,308432
+tt0027977,movie,Modern Times,Modern Times,0,1936.0,,87,"Comedy,Drama,Romance",8.5,278184
+tt0021749,movie,City Lights,City Lights,0,1931.0,,87,"Comedy,Drama,Romance",8.5,210524
+tt1424432,movie,Senna,Senna,0,2010.0,,106,"Biography,Documentary,Sport",8.5,82732
+tt20850406,movie,Sita Ramam,Sita Ramam,0,2022.0,,163,"Action,Drama,Musical",8.5,80050
+tt32820897,movie,Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,0,2025.0,,155,"Action,Adventure,Animation",8.5,49563
+tt1152758,movie,Dear Zachary: A Letter to a Son About His Father,Dear Zachary: A Letter to a Son About His Father,0,2008.0,,95,"Biography,Crime,Documentary",8.5,44421
+tt7019842,movie,96,96,0,2018.0,,158,"Drama,Romance",8.5,43307
+tt0103767,movie,Baraka,Baraka,0,1992.0,,96,Documentary,8.5,42628
+tt11580854,movie,Sarpatta Parambarai,Sarpatta parambarai,0,2021.0,,173,"Action,Drama,Sport",8.5,28088
+tt24082438,movie,20 Days in Mariupol,20 Days in Mariupol,0,2023.0,,97,"Documentary,War",8.5,26900
+tt8948790,movie,Jersey,Jersey,0,2019.0,,157,"Drama,Sport",8.5,26720
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,0,2012.0,,164,"Action,Crime,Drama",8.4,1950959
+tt0361748,movie,Inglourious Basterds,Inglourious Basterds,0,2009.0,,153,"Adventure,Drama,War",8.4,1730462
+tt0209144,movie,Memento,Memento,0,2000.0,,113,"Drama,Mystery,Thriller",8.4,1405413
+tt4154796,movie,Avengers: Endgame,Avengers: Endgame,0,2019.0,,181,"Action,Adventure,Sci-Fi",8.4,1398430
+tt4154756,movie,Avengers: Infinity War,Avengers: Infinity War,0,2018.0,,149,"Action,Adventure,Sci-Fi",8.4,1328438
+tt0910970,movie,WALL·E,WALL·E,0,2008.0,,98,"Adventure,Animation,Family",8.4,1287836
+tt0081505,movie,The Shining,The Shining,0,1980.0,,146,"Drama,Horror",8.4,1193734
+tt0082971,movie,Raiders of the Lost Ark,Raiders of the Lost Ark,0,1981.0,,115,"Action,Adventure",8.4,1091495
+tt0090605,movie,Aliens,Aliens,0,1986.0,,137,"Action,Adventure,Horror",8.4,824545
+tt4633694,movie,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,0,2018.0,,117,"Action,Adventure,Animation",8.4,757813
+tt0078788,movie,Apocalypse Now,Apocalypse Now,0,1979.0,,147,"Drama,Mystery,War",8.4,754895
+tt15239678,movie,Dune: Part Two,Dune: Part Two,0,2024.0,,166,"Action,Adventure,Drama",8.4,676875
+tt2380307,movie,Coco,Coco,0,2017.0,,105,"Adventure,Animation,Drama",8.4,675951
+tt1187043,movie,3 Idiots,3 Idiots,0,2009.0,,170,"Comedy,Drama",8.4,470626
+tt0086879,movie,Amadeus,Amadeus,0,1984.0,,160,"Biography,Drama,Music",8.4,456914
+tt0405094,movie,The Lives of Others,Das Leben der Anderen,0,2006.0,,137,"Drama,Mystery,Thriller",8.4,434243
+tt5311514,movie,Your Name.,Kimi no Na wa.,0,2016.0,,106,"Animation,Drama,Fantasy",8.4,374105
+tt0082096,movie,Das Boot,Das Boot,0,1981.0,,149,"Drama,War",8.4,283367
+tt0043014,movie,Sunset Boulevard,Sunset Blvd.,0,1950.0,,110,"Drama,Film-Noir",8.4,253776
+tt0032553,movie,The Great Dictator,The Great Dictator,0,1940.0,,125,"Comedy,Drama,War",8.4,252794
+tt0050825,movie,Paths of Glory,Paths of Glory,0,1957.0,,88,"Drama,War",8.4,231518
+tt0051201,movie,Witness for the Prosecution,Witness for the Prosecution,0,1957.0,,116,"Crime,Drama,Mystery",8.4,154988
+tt8267604,movie,Capernaum,Capharnaüm,0,2018.0,,126,Drama,8.4,120136
+tt0057565,movie,High and Low,Tengoku to jigoku,0,1963.0,,143,"Crime,Drama,Mystery",8.4,65028
+tt1313104,movie,The Cove,The Cove,0,2009.0,,92,"Biography,Crime,Documentary",8.4,52758
+tt9900782,movie,Kaithi,Kaithi,0,2019.0,,145,"Action,Crime,Thriller",8.4,49653
+tt3417422,movie,Drishyam,Drishyam,0,2013.0,,160,"Crime,Drama,Mystery",8.4,46941
+tt26439764,movie,Kantara A Legend: Chapter 1,Kantara: A Legend - Chapter 1,0,2025.0,,165,"Action,Fantasy,Thriller",8.4,44141
+tt12361178,movie,Drishyam 2,Drishyam 2,0,2021.0,,152,"Crime,Drama,Mystery",8.4,43930
+tt0770802,movie,Samsara,Samsara,0,2011.0,,102,"Documentary,Music",8.4,39494
+tt9477520,movie,Asuran,Asuran,0,2019.0,,141,"Action,Drama",8.4,36566
+tt16492678,movie,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,0,2021.0,,87,"Action,Animation,Fantasy",8.4,34865
+tt0346336,movie,The Best of Youth,La meglio gioventù,0,2003.0,,374,"Drama,Romance",8.4,26727
+tt0376127,movie,Anniyan,Anniyan,0,2005.0,,181,"Action,Crime,Drama",8.4,25140
+tt7286456,movie,Joker,Joker,0,2019.0,,122,"Crime,Drama,Thriller",8.3,1650870
+tt0169547,movie,American Beauty,American Beauty,0,1999.0,,122,Drama,8.3,1264747
+tt1049413,movie,Up,Up,0,2009.0,,96,"Adventure,Animation,Comedy",8.3,1207647
+tt0086190,movie,Star Wars: Episode VI - Return of the Jedi,Star Wars: Episode VI - Return of the Jedi,0,1983.0,,131,"Action,Adventure,Fantasy",8.3,1186506
+tt0119217,movie,Good Will Hunting,Good Will Hunting,0,1997.0,,126,"Drama,Romance",8.3,1173244
+tt0338013,movie,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,0,2004.0,,108,"Drama,Romance,Sci-Fi",8.3,1158650
+tt0105236,movie,Reservoir Dogs,Reservoir Dogs,0,1992.0,,99,"Crime,Thriller",8.3,1151420
+tt0114709,movie,Toy Story,Toy Story,0,1995.0,,81,"Adventure,Animation,Comedy",8.3,1146884
+tt0112573,movie,Braveheart,Braveheart,0,1995.0,,178,"Biography,Drama,War",8.3,1144578
+tt0086250,movie,Scarface,Scarface,0,1983.0,,170,"Crime,Drama",8.3,990916
+tt0180093,movie,Requiem for a Dream,Requiem for a Dream,0,2000.0,,102,Drama,8.3,956009
+tt15398776,movie,Oppenheimer,Oppenheimer,0,2023.0,,180,"Biography,Drama,History",8.3,953749
+tt0435761,movie,Toy Story 3,Toy Story 3,0,2010.0,,103,"Adventure,Animation,Comedy",8.3,949961
+tt0211915,movie,Amélie,Le fabuleux destin d'Amélie Poulain,0,2001.0,,122,"Comedy,Romance",8.3,828592
+tt0113277,movie,Heat,Heat,0,1995.0,,170,"Action,Crime,Drama",8.3,779065
+tt0062622,movie,2001: A Space Odyssey,2001: A Space Odyssey,0,1968.0,,149,"Adventure,Sci-Fi",8.3,767549
+tt0364569,movie,Oldboy,Oldeuboi,0,2003.0,,120,"Action,Drama,Mystery",8.3,698332
+tt0057012,movie,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0,1964.0,,95,"Comedy,War",8.3,544899
+tt0119698,movie,Princess Mononoke,Mononoke-hime,0,1997.0,,133,"Adventure,Animation,Fantasy",8.3,471731
+tt0087843,movie,Once Upon a Time in America,C'era una volta in America,0,1984.0,,229,"Crime,Drama",8.3,401806
+tt2106476,movie,The Hunt,Jagten,0,2012.0,,115,Drama,8.3,398359
+tt0053125,movie,North by Northwest,North by Northwest,0,1959.0,,136,"Adventure,Drama,Mystery",8.3,365079
+tt0056592,movie,To Kill a Mockingbird,To Kill a Mockingbird,0,1962.0,,129,"Crime,Drama",8.3,347310
+tt0056172,movie,Lawrence of Arabia,Lawrence of Arabia,0,1962.0,,227,"Adventure,Biography,Drama",8.3,335132
+tt0045152,movie,Singin' in the Rain,Singin' in the Rain,0,1952.0,,103,"Comedy,Musical,Romance",8.3,277422
+tt1832382,movie,A Separation,Jodaeiye Nader az Simin,0,2011.0,,123,Drama,8.3,273745
+tt1255953,movie,Incendies,Incendies,0,2010.0,,131,"Drama,Mystery,War",8.3,239416
+tt5074352,movie,Dangal,Dangal,0,2016.0,,161,"Action,Biography,Drama",8.3,234471
+tt0986264,movie,Like Stars on Earth,Taare Zameen Par,0,2007.0,,162,"Drama,Family",8.3,226317
+tt0053604,movie,The Apartment,The Apartment,0,1960.0,,125,"Comedy,Drama,Romance",8.3,213716
+tt0017136,movie,Metropolis,Metropolis,0,1927.0,,153,"Drama,Sci-Fi",8.3,197623
+tt0022100,movie,M,M - Eine Stadt sucht einen Mörder,0,1931.0,,99,"Crime,Mystery,Thriller",8.3,179937
+tt0036775,movie,Double Indemnity,Double Indemnity,0,1944.0,,107,"Crime,Drama,Film-Noir",8.3,177665
+tt8110330,movie,Dil Bechara,Dil Bechara,0,2020.0,,101,"Comedy,Drama,Romance",8.3,136903
+tt10295212,movie,Shershaah,Shershaah,0,2021.0,,135,"Action,Biography,Drama",8.3,134307
+tt8503618,movie,Hamilton,Hamilton,0,2020.0,,160,"Biography,Drama,History",8.3,134211
+tt0091251,movie,Come and See,Idi i smotri,0,1985.0,,142,"Drama,Thriller,War",8.3,117400
+tt0044741,movie,Ikiru,Ikiru,0,1952.0,,143,Drama,8.3,99507
+tt0055031,movie,Judgment at Nuremberg,Judgment at Nuremberg,0,1961.0,,179,"Drama,History,War",8.3,94039
+tt9179430,movie,Vikram,Vikram,0,2022.0,,175,"Action,Crime,Thriller",8.3,86849
+tt26548265,movie,Maharaja,Maharaja,0,2024.0,,141,"Action,Crime,Drama",8.3,76166
+tt9052870,movie,Chhichhore,Chhichhore,0,2019.0,,143,"Comedy,Drama,Romance",8.3,70554
+tt7060344,movie,Raatchasan,Ratsasan,0,2018.0,,146,"Crime,Drama,Mystery",8.3,57448
+tt21626284,movie,Lost Ladies,Laapataa Ladies,0,2023.0,,122,"Comedy,Drama",8.3,55890
+tt10280296,movie,Sardar Udham,Sardar Udham,0,2021.0,,164,"Crime,Drama,History",8.3,49912
+tt0019760,movie,Man with a Movie Camera,Chelovek s kino-apparatom,0,1929.0,,68,Documentary,8.3,29764
+tt0110057,movie,Hoop Dreams,Hoop Dreams,0,1994.0,,170,"Documentary,Drama,Sport",8.3,29201
+tt7681902,movie,Won't You Be My Neighbor?,Won't You Be My Neighbor?,0,2018.0,,95,"Biography,Documentary,History",8.3,27854
+tt4679210,movie,Premam,Premam,0,2015.0,,156,"Comedy,Drama,Romance",8.3,27415
+tt3668162,movie,Bangalore Days,Bangalore Days,0,2014.0,,171,"Comedy,Drama,Romance",8.3,26851
+tt0993846,movie,The Wolf of Wall Street,The Wolf of Wall Street,0,2013.0,,180,"Biography,Comedy,Crime",8.2,1732928
+tt0372784,movie,Batman Begins,Batman Begins,0,2005.0,,140,"Action,Crime,Drama",8.2,1679565
+tt1130884,movie,Shutter Island,Shutter Island,0,2010.0,,138,"Drama,Mystery,Thriller",8.2,1592869
+tt0120382,movie,The Truman Show,The Truman Show,0,1998.0,,103,"Comedy,Drama",8.2,1326377
+tt0266697,movie,Kill Bill: Vol. 1,Kill Bill: Vol. 1,0,2003.0,,111,"Action,Crime,Thriller",8.2,1274902
+tt0266543,movie,Finding Nemo,Finding Nemo,0,2003.0,,100,"Adventure,Animation,Comedy",8.2,1182517
+tt0477348,movie,No Country for Old Men,No Country for Old Men,0,2007.0,,122,"Crime,Drama,Thriller",8.2,1156004
+tt0107290,movie,Jurassic Park,Jurassic Park,0,1993.0,,127,"Action,Adventure,Sci-Fi",8.2,1150542
+tt0167404,movie,The Sixth Sense,The Sixth Sense,0,1999.0,,107,"Drama,Mystery,Thriller",8.2,1121455
+tt0268978,movie,A Beautiful Mind,A Beautiful Mind,0,2001.0,,135,"Biography,Drama,Mystery",8.2,1037427
+tt0095016,movie,Die Hard,Die Hard,0,1988.0,,132,"Action,Thriller",8.2,1005418
+tt0075314,movie,Taxi Driver,Taxi Driver,0,1976.0,,114,"Crime,Drama",8.2,1001647
+tt10872600,movie,Spider-Man: No Way Home,Spider-Man: No Way Home,0,2021.0,,148,"Action,Adventure,Fantasy",8.2,985041
+tt0208092,movie,Snatch,Snatch,0,2000.0,,102,"Comedy,Crime",8.2,960702
+tt0066921,movie,A Clockwork Orange,A Clockwork Orange,0,1971.0,,136,"Crime,Sci-Fi",8.2,923993
+tt1392214,movie,Prisoners,Prisoners,0,2013.0,,153,"Crime,Drama,Mystery",8.2,901856
+tt0097576,movie,Indiana Jones and the Last Crusade,Indiana Jones and the Last Crusade,0,1989.0,,127,"Action,Adventure",8.2,851140
+tt0093058,movie,Full Metal Jacket,Full Metal Jacket,0,1987.0,,116,"Drama,War",8.2,836211
+tt1745960,movie,Top Gun: Maverick,Top Gun: Maverick,0,2022.0,,130,"Action,Drama",8.2,811388
+tt8579674,movie,1917,1917,0,2019.0,,119,"Action,Drama,War",8.2,748500
+tt0457430,movie,Pan's Labyrinth,El laberinto del fauno,0,2006.0,,118,"Drama,Fantasy,War",8.2,735505
+tt0469494,movie,There Will Be Blood,There Will Be Blood,0,2007.0,,158,Drama,8.2,689714
+tt6966692,movie,Green Book,Green Book,0,2018.0,,130,"Biography,Comedy,Drama",8.2,659956
+tt0119488,movie,L.A. Confidential,L.A. Confidential,0,1997.0,,138,"Crime,Drama,Mystery",8.2,649980
+tt0112641,movie,Casino,Casino,0,1995.0,,178,"Crime,Drama",8.2,605774
+tt0071853,movie,Monty Python and the Holy Grail,Monty Python and the Holy Grail,0,1975.0,,91,"Adventure,Comedy,Fantasy",8.2,595818
+tt0084787,movie,The Thing,The Thing,0,1982.0,,109,"Horror,Mystery,Sci-Fi",8.2,512885
+tt0347149,movie,Howl's Moving Castle,Hauru no ugoku shiro,0,2004.0,,119,"Adventure,Animation,Family",8.2,497717
+tt0033467,movie,Citizen Kane,Citizen Kane,0,1941.0,,119,"Drama,Mystery",8.2,487735
+tt0105695,movie,Unforgiven,Unforgiven,0,1992.0,,130,"Drama,Western",8.2,461448
+tt0052357,movie,Vertigo,Vertigo,0,1958.0,,128,"Mystery,Romance,Thriller",8.2,452334
+tt0363163,movie,Downfall,Der Untergang,0,2004.0,,156,"Biography,Drama,History",8.2,394434
+tt0031381,movie,Gone with the Wind,Gone with the Wind,0,1939.0,,238,"Drama,Romance,War",8.2,351538
+tt0053291,movie,Some Like It Hot,Some Like It Hot,0,1959.0,,121,"Comedy,Music,Romance",8.2,300030
+tt0070735,movie,The Sting,The Sting,0,1973.0,,129,"Comedy,Crime,Drama",8.2,295486
+tt0059578,movie,For a Few Dollars More,Per qualche dollaro in più,0,1965.0,,132,"Drama,Western",8.2,294569
+tt0080678,movie,The Elephant Man,The Elephant Man,0,1980.0,,124,"Biography,Drama",8.2,277563
+tt0057115,movie,The Great Escape,The Great Escape,0,1963.0,,172,"Adventure,Drama,Thriller",8.2,273337
+tt1305806,movie,The Secret in Their Eyes,El secreto de sus ojos,0,2009.0,,129,"Drama,Mystery,Romance",8.2,237707
+tt4729430,movie,Klaus,Klaus,0,2019.0,,96,"Adventure,Animation,Comedy",8.2,221579
+tt10272386,movie,The Father,The Father,0,2020.0,,97,"Drama,Mystery",8.2,221158
+tt29623480,movie,The Wild Robot,The Wild Robot,0,2024.0,,102,"Adventure,Animation,Family",8.2,202673
+tt0046912,movie,Dial M for Murder,Dial M for Murder,0,1954.0,,105,"Crime,Drama,Mystery",8.2,201441
+tt0040522,movie,Bicycle Thieves,Ladri di biciclette,0,1948.0,,89,Drama,8.2,189324
+tt10698680,movie,K.G.F: Chapter 2,K.G.F: Chapter 2,0,2022.0,,166,"Action,Crime,Drama",8.2,165192
+tt0089881,movie,Ran,Ran,0,1985.0,,160,"Action,Drama,War",8.2,147981
+tt0042192,movie,All About Eve,All About Eve,0,1950.0,,138,Drama,8.2,147107
+tt0012349,movie,The Kid,The Kid,0,1921.0,,68,"Comedy,Drama,Family",8.2,143538
+tt0055630,movie,Yojimbo,Yôjinbô,0,1961.0,,110,"Action,Drama,Thriller",8.2,140556
+tt0040897,movie,The Treasure of the Sierra Madre,The Treasure of the Sierra Madre,0,1948.0,,126,"Adventure,Drama,Western",8.2,139469
+tt30144839,movie,One Battle After Another,One Battle After Another,0,2025.0,,161,"Action,Crime,Drama",8.2,131245
+tt5323662,movie,A Silent Voice: The Movie,Koe no Katachi,0,2016.0,,130,"Animation,Drama",8.2,130525
+tt4849438,movie,Baahubali 2: The Conclusion,Bãhubali 2: The Conclusion,0,2017.0,,167,"Action,Drama",8.2,129177
+tt8108198,movie,Andhadhun,Andhadhun,0,2018.0,,139,"Crime,Mystery,Thriller",8.2,112300
+tt5813916,movie,The Mountain II,Dag II,0,2016.0,,135,"Action,Drama,War",8.2,112144
+tt1954470,movie,Gangs of Wasseypur,Gangs of Wasseypur,0,2012.0,,321,"Action,Comedy,Crime",8.2,111133
+tt7838252,movie,K.G.F: Chapter 1,K.G.F: Chapter 1,0,2018.0,,154,"Action,Crime,Drama",8.2,108112
+tt4430212,movie,Drishyam,Drishyam,0,2015.0,,163,"Crime,Drama,Mystery",8.2,105041
+tt0367110,movie,Swades,"Swades: We, the People",0,2004.0,,189,"Drama,Musical",8.2,104155
+tt0476735,movie,My Father and My Son,Babam ve Oglum,0,2005.0,,112,"Drama,Family",8.2,99066
+tt0374887,movie,Munna Bhai M.B.B.S.,Munna Bhai M.B.B.S.,0,2003.0,,156,"Comedy,Drama",8.2,95351
+tt11032374,movie,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,0,2020.0,,117,"Action,Adventure,Animation",8.2,93848
+tt1562872,movie,Zindagi Na Milegi Dobara,Zindagi Na Milegi Dobara,0,2011.0,,155,"Comedy,Drama,Musical",8.2,93498
+tt0118849,movie,Children of Heaven,Bacheha-ye aseman,0,1997.0,,89,"Drama,Family,Sport",8.2,87988
+tt1645089,movie,Inside Job,Inside Job,0,2010.0,,109,"Crime,Documentary",8.2,82091
+tt0242519,movie,Hera Pheri,Hera Pheri,0,2000.0,,156,"Action,Comedy,Crime",8.2,78929
+tt8291224,movie,Uri: The Surgical Strike,Uri: The Surgical Strike,0,2019.0,,138,"Action,Drama,History",8.2,78333
+tt2356180,movie,Bhaag Milkha Bhaag,Bhaag Milkha Bhaag,0,2013.0,,186,"Biography,Drama,Sport",8.2,76864
+tt2125608,movie,Searching for Sugar Man,Searching for Sugar Man,0,2012.0,,86,"Biography,Documentary,Music",8.2,75513
+tt8239946,movie,Tumbbad,Tumbbad,0,2018.0,,108,"Drama,Fantasy,Horror",8.2,71675
+tt10431500,movie,Miracle in Cell No. 7,Yedinci Kogustaki Mucize,0,2019.0,,132,Drama,8.2,60745
+tt6148156,movie,Vikram Vedha,Vikram Vedha,0,2017.0,,147,"Action,Crime,Drama",8.2,54216
+tt15501640,movie,Drishyam 2,Drishyam 2,0,2022.0,,140,"Crime,Drama,Mystery",8.2,50370
+tt6316138,movie,Ayla: The Daughter of War,Ayla,0,2017.0,,125,"Biography,Drama,History",8.2,47067
+tt0085809,movie,Koyaanisqatsi,Koyaanisqatsi,0,1982.0,,86,"Documentary,Music",8.2,43930
+tt2375605,movie,The Act of Killing,The Act of Killing,0,2012.0,,117,"Biography,Crime,Documentary",8.2,43343
+tt0048473,movie,Pather Panchali,Pather Panchali,0,1955.0,,125,"Drama,History",8.2,40890
+tt7905466,movie,They Shall Not Grow Old,They Shall Not Grow Old,0,2018.0,,99,"Documentary,History,War",8.2,40215
+tt1620933,movie,Paan Singh Tomar,Paan Singh Tomar,0,2012.0,,135,"Action,Biography,Crime",8.2,39570
+tt5895028,movie,13th,13th,0,2016.0,,100,"Crime,Documentary,History",8.2,38896
+tt0071411,movie,Dersu Uzala,Dersu Uzala,0,1975.0,,142,"Adventure,Biography,Drama",8.2,35702
+tt26458038,movie,Manjummel Boys,Manjummel Boys,0,2024.0,,135,"Adventure,Drama,Thriller",8.2,31536
+tt7392212,movie,Rangasthalam,Rangasthalam,0,2018.0,,170,"Action,Drama",8.2,30259
+tt0049902,movie,A Man Escaped,Un condamné à mort s'est échappé ou Le vent souffle où il veut,0,1956.0,,101,"Drama,Thriller,War",8.2,30019
+tt5929776,movie,Before the Flood,Before the Flood,0,2016.0,,96,"Documentary,News",8.2,29490
+tt4983780,movie,Maanaadu,Maanaadu,0,2021.0,,147,"Action,Adventure,Sci-Fi",8.2,27132
+tt0466460,movie,Khosla Ka Ghosla!,Khosla Ka Ghosla!,0,2006.0,,135,"Comedy,Crime,Drama",8.2,26494
+tt0100234,movie,Close-Up,Nema-ye nazdik,0,1990.0,,98,"Biography,Crime,Drama",8.2,25930
+tt0054248,movie,Rocco and His Brothers,Rocco e i suoi fratelli,0,1960.0,,179,"Crime,Drama,Sport",8.2,25157
+tt0325980,movie,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,0,2003.0,,143,"Action,Adventure,Fantasy",8.1,1294242
